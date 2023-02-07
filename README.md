@@ -6,7 +6,9 @@
 ### Important ! ###
 
 > Some libraries can only be installed in some python versions.
+
 > Namely in version: >3.7, <3.11
+
 > suggest in versions 3.8 - 3.10
 
 ### Install - Streamlit
