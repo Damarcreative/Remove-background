@@ -8,17 +8,17 @@ Some libraries can only be installed in some python versions.
 Namely in version: >3.7, <3.11
 I suggest in versions 3.8 - 3.10
 
-### Install
+### Install - Streamlit
 Install the requirements library
 
     pip install -r requirements.txt
 
 Running Streamlit
 
-    <PATH> streamlit run rbgweb.py
+    <PATH> streamlit run main_streamlit.py
 Example:
 
-    K:\pyproject> streamlit run rbgweb.py
+    K:\pyproject> streamlit run main_streamlit.py
 
 #
 
